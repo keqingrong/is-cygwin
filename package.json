@@ -1,0 +1,21 @@
+{
+  "name": "is-cygwin",
+  "version": "1.0.0",
+  "description": "Check if the process is running inside Cygwin",
+  "main": "index.js",
+  "files": [
+    "index.js"
+  ],
+  "repository": "keqingrong/is-cygwin",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "cygwin",
+    "process",
+    "terminal",
+    "windows"
+  ],
+  "author": "keqingrong <keqingrong1992@gmail.com> (https://keqingrong.github.io/)",
+  "license": "MIT"
+}
