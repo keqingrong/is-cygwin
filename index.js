@@ -16,4 +16,4 @@ const isCygwin = () => {
   }
 };
 
-module.exports = isCygwin();
+module.exports = isCygwin;

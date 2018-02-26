@@ -15,7 +15,7 @@ npm install --save is-cygwin
 ```js
 const isCygwin = require('is-cygwin');
 
-console.log(isCygwin);
+console.log(isCygwin());
 ```
 
 ## License
